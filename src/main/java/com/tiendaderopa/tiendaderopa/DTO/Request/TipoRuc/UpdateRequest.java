@@ -1,8 +1,6 @@
 package com.tiendaderopa.tiendaderopa.DTO.Request.TipoRuc;
 
-import java.io.Serializable;
-
-public class UpdateRequest implements Serializable {
+public class UpdateRequest {
     
     private long paisId;
     private String noTipoRuc;

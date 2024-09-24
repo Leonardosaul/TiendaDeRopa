@@ -1,8 +1,6 @@
 package com.tiendaderopa.tiendaderopa.DTO.Request.TipoEmpresa;
 
-import java.io.Serializable;
-
-public class SaveRequest implements Serializable {
+public class SaveRequest {
     
     private String noTipoEmpresa;
     private String acronimo;

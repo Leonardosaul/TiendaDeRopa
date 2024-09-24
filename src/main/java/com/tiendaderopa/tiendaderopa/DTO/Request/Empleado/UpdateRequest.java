@@ -1,9 +1,8 @@
 package com.tiendaderopa.tiendaderopa.DTO.Request.Empleado;
 
-import java.io.Serializable;
 import java.util.Date;
 
-public class UpdateRequest implements Serializable {
+public class UpdateRequest {
     
     private long puestoTrabajoId;
     private long tipoDocumentoId;

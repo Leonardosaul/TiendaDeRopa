@@ -1,8 +1,6 @@
 package com.tiendaderopa.tiendaderopa.DTO.Request.MedioPago;
 
-import java.io.Serializable;
-
-public class UpdateRequest implements Serializable {
+public class UpdateRequest {
     
     private String noMedioPago;
     private String descripcion;

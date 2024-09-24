@@ -1,8 +1,6 @@
 package com.tiendaderopa.tiendaderopa.DTO.Request.Igv;
 
-import java.io.Serializable;
-
-public class UpdateRequest implements Serializable {
+public class UpdateRequest {
     
     private long paisId;
     private double tasa;

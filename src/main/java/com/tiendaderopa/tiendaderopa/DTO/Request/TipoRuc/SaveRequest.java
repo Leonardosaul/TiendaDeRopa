@@ -1,8 +1,6 @@
 package com.tiendaderopa.tiendaderopa.DTO.Request.TipoRuc;
 
-import java.io.Serializable;
-
-public class SaveRequest implements Serializable {
+public class SaveRequest {
     
     private long paisId;
     private String noTipoRuc;

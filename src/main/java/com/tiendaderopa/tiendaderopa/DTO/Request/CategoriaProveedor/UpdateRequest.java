@@ -1,8 +1,6 @@
 package com.tiendaderopa.tiendaderopa.DTO.Request.CategoriaProveedor;
 
-import java.io.Serializable;
-
-public class UpdateRequest implements Serializable {
+public class UpdateRequest {
     
     private String noCategoriaProveedor;
     private String descripcion;

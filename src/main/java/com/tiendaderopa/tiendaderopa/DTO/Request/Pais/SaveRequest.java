@@ -1,8 +1,6 @@
 package com.tiendaderopa.tiendaderopa.DTO.Request.Pais;
 
-import java.io.Serializable;
-
-public class SaveRequest implements Serializable {
+public class SaveRequest {
     
     private String noPais;
     private String acronimo;

@@ -1,8 +1,6 @@
 package com.tiendaderopa.tiendaderopa.DTO.Request.TipoContrato;
 
-import java.io.Serializable;
-
-public class SaveRequest implements Serializable {
+public class SaveRequest {
     
     private String noTipoContrato;
     private String descripcion;

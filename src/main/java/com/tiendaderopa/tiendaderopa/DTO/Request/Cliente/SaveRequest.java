@@ -1,9 +1,8 @@
 package com.tiendaderopa.tiendaderopa.DTO.Request.Cliente;
 
-import java.io.Serializable;
 import java.util.Date;
 
-public class SaveRequest implements Serializable {
+public class SaveRequest {
     
     private long planId;
     private long tipoDocumentoId;
